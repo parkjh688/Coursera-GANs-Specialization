@@ -4,7 +4,7 @@
 
 # Deeplearning.ai Generative Adversarial Networks Specialization
 
-This Repository Contains solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai and my own class note on my notion pages.
+This Repository Contains solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai and my own class note on my notion pages and pdf which is located in each Course's week folder.
 
 Course
 ---
@@ -20,3 +20,9 @@ Upload solution and own class note soon.<br>
 
 ### Course 3 : Apply Generative Adversarial Networks (GANs)
 Upload solution and own class note soon.
+
+<br>
+
+Notion Note
+---
+https://www.notion.so/imeden/Coursera-Generative-Adversarial-Networks-GANs-021f908e19b345cbac33f0b92ecba585
