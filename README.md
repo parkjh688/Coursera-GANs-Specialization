@@ -1,8 +1,11 @@
-[](Coursera-GANs-Specialization.jpg)
+<p align="center">
+  <img alignc="center" src="./Coursera-GANs-Specialization.jpg" width="700"/>
+</p>
 
 # Deeplearning.ai Generative Adversarial Networks Specialization
+
 This Repository Contains solution to the Assignments of the Generative Adversarial Networks (GANs) Specialization from deeplearning.ai and my own class note on my notion pages.
-<br>
+
 Course
 ---
 ### Course 1 : Build Basic Generative Adversarial Networks (GANs)
