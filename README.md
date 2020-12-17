@@ -10,13 +10,13 @@ Course
 ---
 ### Course 1 : Build Basic Generative Adversarial Networks (GANs)
 [1. Week 1 - Your First GAN](https://github.com/parkjh688/Coursera-GANs-Specialization/tree/main/Course%201%20-%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week%201)<br>
-2. Week 2 - Deep Convolutional GAN (DCGAN)<br>
+[2. Week 2 - Deep Convolutional GAN (DCGAN)](https://github.com/parkjh688/Coursera-GANs-Specialization/tree/main/Course%201%20-%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/Week%202)<br>
 3. Week 3 - Upload solution and own class note soon.<br>
-4. Week 4 - Upload solution and own class note soon.<br><br>
+4. Week 4 - Upload solution and own class note soon.
 
 
 ### Course 2 : Build Better Generative Adversarial Networks (GANs)
-Upload solution and own class note soon.<br>
+Upload solution and own class note soon.
 
 ### Course 3 : Apply Generative Adversarial Networks (GANs)
 Upload solution and own class note soon.
